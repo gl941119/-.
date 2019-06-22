@@ -1,0 +1,48 @@
+// Vux 组件库
+import {
+  XTextarea,
+  Confirm,
+  Radio,
+  Toast,
+  XHeader,
+  Tab,
+  XInput,
+  XImg,
+  XButton,
+  Group,
+  XSwitch,
+  ButtonTab,
+  ButtonTabItem,
+  Popup,
+  Cell,
+  Loading,
+  InlineLoading,
+  Rater,
+  Datetime,
+  LoadMore,
+  Alert
+} from 'vux'
+
+export default {
+  Confirm,
+  Toast,
+  XHeader,
+  Tab,
+  XInput,
+  XButton,
+  Group,
+  XSwitch,
+  ButtonTab,
+  ButtonTabItem,
+  Popup,
+  Cell,
+  Loading,
+  InlineLoading,
+  Rater,
+  Datetime,
+  LoadMore,
+  Alert,
+  XImg,
+  Radio,
+  XTextarea
+}
