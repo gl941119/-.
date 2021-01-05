@@ -12,7 +12,7 @@
     "api": "node build/api.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "immutable": "^4.0.0-rc.12",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
